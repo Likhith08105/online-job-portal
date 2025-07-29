@@ -1,3 +1,3 @@
 # online-job-portal
 MY First Git Repository
-Author -Likhith kumat
+Author -Likhith kumar
